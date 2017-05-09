@@ -1,12 +1,6 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="cede-va" />
-        </UrlAndUserName>
-      </list>
-    </option>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
