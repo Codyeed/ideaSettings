@@ -2,12 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".bazelrc" type="PLAIN_TEXT" />
       <mapping pattern="google_auth_proxy" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping pattern="bright_local_seo" type="Python" />
       <mapping pattern="player_test" type="Python" />
+      <mapping pattern="bright_local_seo" type="Python" />
     </extensionMap>
   </component>
 </application>
