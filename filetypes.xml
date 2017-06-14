@@ -5,8 +5,9 @@
       <mapping pattern="google_auth_proxy" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping pattern="player_test" type="Python" />
+      <mapping ext="google_protos" type="PLAIN_TEXT" />
       <mapping pattern="bright_local_seo" type="Python" />
+      <mapping pattern="player_test" type="Python" />
     </extensionMap>
   </component>
 </application>
